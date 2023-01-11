@@ -3,6 +3,7 @@ The website assists pet owners in managing their pet's medical documents and tra
 
 Vuejs is used as the framework, Element-plus is used as the component library, and Firebase cloud storage is used to store pdf/img format files.
 
+## Screenshots of this project
 - Dashboard shows folders, events, tasks and bookings
 <img width="552" alt="Screen Shot 2022-11-19 at 11 33 45 AM" src="https://user-images.githubusercontent.com/96086388/202868279-a0d5086f-c2e4-4875-b8b8-c1528403551e.png">
 
@@ -16,7 +17,21 @@ Vuejs is used as the framework, Element-plus is used as the component library, a
 <img width="572" alt="Screen Shot 2022-11-19 at 11 45 30 AM" src="https://user-images.githubusercontent.com/96086388/202868718-bb23604c-c217-4e11-86e2-5b89b8a2a4d0.png">
 <img width="572" alt="Screen Shot 2022-11-19 at 11 45 41 AM" src="https://user-images.githubusercontent.com/96086388/202868724-699c9ac1-f7ea-43cf-bea9-03363c03ceb6.png">
 
-# UI Design
+## Tech-Stacks
+* axios:0.26.1 
+* element-plus: 2.1.8
+* vue: 3.2.25
+* vue-router: 4.0.14
+* node-sass: 4.14.1
+* firebase: 9.7.0
+
+## Start
+```
+$ npm i       // npm install packages
+$ npm run dev // run it locally
+```
+
+## UI Design
 - Version 1 of Mockup. Link: https://www.figma.com/file/sESnNPEvqLQV5GJMAC9euS/Version1-of-Mockup?node-id=0%3A1&t=7iYgdykpNuGw0KZN-1
 - Version 2 of Mockup. Link: https://www.figma.com/file/JOCGDDMRg33BBDDmScggdU/Version2-of-Mockup?node-id=0%3A1&t=Gh2nILaBkig9ObKz-1
 - Mockup for Booking Feature. Link: https://www.figma.com/file/HcZNngUshK0xa4aZrypaUz/Mockup---Booking-Feature?node-id=0%3A1&t=W7WRvU6IrdOzvnr8-1
